@@ -8607,4 +8607,5 @@ input, select, textarea {
 		}
         .n:hover{
 			color:#47D3E5;
+			text-decoration: none;
 		}
